@@ -1,0 +1,61 @@
+{"Timestamp": "2024-04-07 20:07:07", "Source": "Application", "EventID": 100, "TimeGenerated": "2024-04-07 15:07:00 UTC", "EventType": 1, "Severity": "Unknown", "StringInserts": ["This is a sample error log entry"], "Description": "No description available"}
+
+
+cmd
+powershell.exe -Command "Write-EventLog -LogName System -Source System -EventID 4625 -Message 'Failed login attempt detected: User admin'"
+
+test more
+ {
+        "Timestamp": "2024-04-08 11:16:42",
+        "Source": "System",
+        "EventID": 4625,
+        "TimeGenerated": "2024-04-08 06:16:34 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "Failed login attempt detected: User admin"
+        ],
+        "Description": "No description available"
+    },
+
+
+
+    more 
+      [
+        {
+            "Timestamp": "2024-04-08 11:16:42",
+            "Source": "System",
+            "EventID": 4625,
+            "TimeGenerated": "2024-04-08 06:16:34 UTC",
+            "EventType": 4,
+            "Severity": "Unknown",
+            "StringInserts": [
+                "Failed login attempt detected: User admin"
+            ],
+            "Description": "No description available"
+        },
+        {
+            "Timestamp": "2024-04-08 11:16:42",
+            "Source": "System",
+            "EventID": 4625,
+            "TimeGenerated": "2024-04-08 06:04:59 UTC",
+            "EventType": 4,
+            "Severity": "Unknown",
+            "StringInserts": [
+                "Failed login attempt detected: User admin"
+            ],
+            "Description": "No description available"
+        },
+        {
+            "Timestamp": "2024-04-08 11:16:42",
+            "Source": "System",
+            "EventID": 4625,
+            "TimeGenerated": "2024-04-08 06:04:03 UTC",
+            "EventType": 4,
+            "Severity": "Unknown",
+            "StringInserts": [
+                "Failed login attempt detected: User admin"
+            ],
+            "Description": "No description available"
+        }
+    ],

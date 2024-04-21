@@ -1,0 +1,1170 @@
+[
+    {
+        "Timestamp": "2024-04-08 11:16:42",
+        "Source": "System",
+        "EventID": 4625,
+        "TimeGenerated": "2024-04-08 06:16:34 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "Failed login attempt detected: User admin"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "System",
+        "EventID": 1,
+        "TimeGenerated": "2024-04-21 06:15:15 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "2024-04-21T05:43:07.4561318Z",
+            "2024-04-21T06:15:15.7347235Z",
+            "3866",
+            "5240",
+            "3601",
+            "774",
+            "0",
+            "0",
+            "0",
+            "1912621088",
+            "4",
+            "4",
+            "1",
+            "0",
+            "",
+            "0",
+            "0",
+            "0",
+            "",
+            "",
+            "72"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "System",
+        "EventID": 1073748845,
+        "TimeGenerated": "2024-04-21 06:15:13 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "\\Device\\NDMP3",
+            "Intel(R) Dual Band Wireless-AC 8265"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "System",
+        "EventID": 130,
+        "TimeGenerated": "2024-04-21 06:15:10 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "28477036",
+            "28477088"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "System",
+        "EventID": 131,
+        "TimeGenerated": "2024-04-21 06:15:10 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "5",
+            "731",
+            "730"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "System",
+        "EventID": 1,
+        "TimeGenerated": "2024-04-21 06:15:10 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "2024-04-21T06:15:10.5000000Z",
+            "2024-04-21T05:43:14.7420026Z",
+            "2",
+            "",
+            "4"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "System",
+        "EventID": 137,
+        "TimeGenerated": "2024-04-21 05:43:14 UTC",
+        "EventType": 1,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "4"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "System",
+        "EventID": 107,
+        "TimeGenerated": "2024-04-21 05:43:14 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "4",
+            "4",
+            "4",
+            "1601-01-01T00:00:00.0000000Z",
+            "1601-01-01T00:00:00.0000000Z",
+            "0",
+            "0"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "System",
+        "EventID": 42,
+        "TimeGenerated": "2024-04-21 05:43:11 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "4",
+            "4",
+            "0",
+            "4",
+            "9"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "System",
+        "EventID": 1073748869,
+        "TimeGenerated": "2024-04-21 05:24:17 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "GoogleUpdater InternalService 126.0.6425.0 (GoogleUpdaterInternalService126.0.6425.0)",
+            "\"C:\\Program Files (x86)\\Google\\GoogleUpdater\\126.0.6425.0\\updater.exe\" --system --windows-service --service=update-internal --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/updater/*=2",
+            "user mode service",
+            "auto start",
+            "LocalSystem"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "System",
+        "EventID": 10016,
+        "TimeGenerated": "2024-04-21 05:23:48 UTC",
+        "EventType": 2,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "machine-default",
+            "Local",
+            "Activation",
+            "{C2F03A33-21F5-47FA-B4BB-156362A2F239}",
+            "{316CDED5-E4AE-4B15-9113-7055D84DCC97}",
+            "USER-TQQDFO6QN4",
+            "USER",
+            "S-1-5-21-1877836907-1578909563-1201082117-1000",
+            "LocalHost (Using LRPC)",
+            "Microsoft.Windows.ShellExperienceHost_10.0.19041.4239_neutral_neutral_cw5n1h2txyewy",
+            "S-1-15-2-155514346-2573954481-755741238-1654018636-1233331829-3075935687-2861478708"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Application",
+        "EventID": 3,
+        "TimeGenerated": "2024-04-21 06:16:16 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "iBtSiva",
+            "Siva worker elapsed"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Application",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "HP Audio Analytics Service (8.10.40.158) in OnStart"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Application",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "HP Audio Analytics Service in OnStop"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Application",
+        "EventID": 0,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "SynTPEnhService",
+            "Session Changed User unlock"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Application",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "OnSessionChange - Type = 0x8"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Application",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "OnSessionChange - Type = 0x8"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Application",
+        "EventID": 1,
+        "TimeGenerated": "2024-04-21 06:15:16 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "iBtSiva",
+            "Siva worker starting"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Application",
+        "EventID": 0,
+        "TimeGenerated": "2024-04-21 06:15:16 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "PowerEvent handled successfully by the service."
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Application",
+        "EventID": 0,
+        "TimeGenerated": "2024-04-21 06:15:14 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "PowerEvent handled successfully by the service."
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Application",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:14 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "PowerEvent-default - 0x7"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "NetworkDevices",
+        "EventID": 3,
+        "TimeGenerated": "2024-04-21 06:16:16 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "iBtSiva",
+            "Siva worker elapsed"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "NetworkDevices",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "HP Audio Analytics Service (8.10.40.158) in OnStart"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "NetworkDevices",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "HP Audio Analytics Service in OnStop"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "NetworkDevices",
+        "EventID": 0,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "SynTPEnhService",
+            "Session Changed User unlock"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "NetworkDevices",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "OnSessionChange - Type = 0x8"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "NetworkDevices",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "OnSessionChange - Type = 0x8"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "NetworkDevices",
+        "EventID": 1,
+        "TimeGenerated": "2024-04-21 06:15:16 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "iBtSiva",
+            "Siva worker starting"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "NetworkDevices",
+        "EventID": 0,
+        "TimeGenerated": "2024-04-21 06:15:16 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "PowerEvent handled successfully by the service."
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "NetworkDevices",
+        "EventID": 0,
+        "TimeGenerated": "2024-04-21 06:15:14 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "PowerEvent handled successfully by the service."
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "NetworkDevices",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:14 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "PowerEvent-default - 0x7"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Servers",
+        "EventID": 3,
+        "TimeGenerated": "2024-04-21 06:16:16 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "iBtSiva",
+            "Siva worker elapsed"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Servers",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "HP Audio Analytics Service (8.10.40.158) in OnStart"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Servers",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "HP Audio Analytics Service in OnStop"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Servers",
+        "EventID": 0,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "SynTPEnhService",
+            "Session Changed User unlock"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Servers",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "OnSessionChange - Type = 0x8"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Servers",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "OnSessionChange - Type = 0x8"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Servers",
+        "EventID": 1,
+        "TimeGenerated": "2024-04-21 06:15:16 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "iBtSiva",
+            "Siva worker starting"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Servers",
+        "EventID": 0,
+        "TimeGenerated": "2024-04-21 06:15:16 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "PowerEvent handled successfully by the service."
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Servers",
+        "EventID": 0,
+        "TimeGenerated": "2024-04-21 06:15:14 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "PowerEvent handled successfully by the service."
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Servers",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:14 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "PowerEvent-default - 0x7"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Databases",
+        "EventID": 3,
+        "TimeGenerated": "2024-04-21 06:16:16 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "iBtSiva",
+            "Siva worker elapsed"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Databases",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "HP Audio Analytics Service (8.10.40.158) in OnStart"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Databases",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "HP Audio Analytics Service in OnStop"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Databases",
+        "EventID": 0,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "SynTPEnhService",
+            "Session Changed User unlock"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Databases",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "OnSessionChange - Type = 0x8"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Databases",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "OnSessionChange - Type = 0x8"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Databases",
+        "EventID": 1,
+        "TimeGenerated": "2024-04-21 06:15:16 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "iBtSiva",
+            "Siva worker starting"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Databases",
+        "EventID": 0,
+        "TimeGenerated": "2024-04-21 06:15:16 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "PowerEvent handled successfully by the service."
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Databases",
+        "EventID": 0,
+        "TimeGenerated": "2024-04-21 06:15:14 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "PowerEvent handled successfully by the service."
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Databases",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:14 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "PowerEvent-default - 0x7"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Applications",
+        "EventID": 3,
+        "TimeGenerated": "2024-04-21 06:16:16 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "iBtSiva",
+            "Siva worker elapsed"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Applications",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "HP Audio Analytics Service (8.10.40.158) in OnStart"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Applications",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "HP Audio Analytics Service in OnStop"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Applications",
+        "EventID": 0,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "SynTPEnhService",
+            "Session Changed User unlock"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Applications",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "OnSessionChange - Type = 0x8"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Applications",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "OnSessionChange - Type = 0x8"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Applications",
+        "EventID": 1,
+        "TimeGenerated": "2024-04-21 06:15:16 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "iBtSiva",
+            "Siva worker starting"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Applications",
+        "EventID": 0,
+        "TimeGenerated": "2024-04-21 06:15:16 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "PowerEvent handled successfully by the service."
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Applications",
+        "EventID": 0,
+        "TimeGenerated": "2024-04-21 06:15:14 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "PowerEvent handled successfully by the service."
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Applications",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:14 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "PowerEvent-default - 0x7"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Firewalls",
+        "EventID": 3,
+        "TimeGenerated": "2024-04-21 06:16:16 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "iBtSiva",
+            "Siva worker elapsed"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Firewalls",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "HP Audio Analytics Service (8.10.40.158) in OnStart"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Firewalls",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "HP Audio Analytics Service in OnStop"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Firewalls",
+        "EventID": 0,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "SynTPEnhService",
+            "Session Changed User unlock"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Firewalls",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "OnSessionChange - Type = 0x8"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Firewalls",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "OnSessionChange - Type = 0x8"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Firewalls",
+        "EventID": 1,
+        "TimeGenerated": "2024-04-21 06:15:16 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "iBtSiva",
+            "Siva worker starting"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Firewalls",
+        "EventID": 0,
+        "TimeGenerated": "2024-04-21 06:15:16 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "PowerEvent handled successfully by the service."
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Firewalls",
+        "EventID": 0,
+        "TimeGenerated": "2024-04-21 06:15:14 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "PowerEvent handled successfully by the service."
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Firewalls",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:14 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "PowerEvent-default - 0x7"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Antivirus",
+        "EventID": 3,
+        "TimeGenerated": "2024-04-21 06:16:16 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "iBtSiva",
+            "Siva worker elapsed"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Antivirus",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "HP Audio Analytics Service (8.10.40.158) in OnStart"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Antivirus",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "HP Audio Analytics Service in OnStop"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Antivirus",
+        "EventID": 0,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "SynTPEnhService",
+            "Session Changed User unlock"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Antivirus",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "OnSessionChange - Type = 0x8"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Antivirus",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "OnSessionChange - Type = 0x8"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Antivirus",
+        "EventID": 1,
+        "TimeGenerated": "2024-04-21 06:15:16 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "iBtSiva",
+            "Siva worker starting"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Antivirus",
+        "EventID": 0,
+        "TimeGenerated": "2024-04-21 06:15:16 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "PowerEvent handled successfully by the service."
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Antivirus",
+        "EventID": 0,
+        "TimeGenerated": "2024-04-21 06:15:14 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "PowerEvent handled successfully by the service."
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "Antivirus",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:14 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "PowerEvent-default - 0x7"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "IDSIPS",
+        "EventID": 3,
+        "TimeGenerated": "2024-04-21 06:16:16 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "iBtSiva",
+            "Siva worker elapsed"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "IDSIPS",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "HP Audio Analytics Service (8.10.40.158) in OnStart"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "IDSIPS",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "HP Audio Analytics Service in OnStop"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "IDSIPS",
+        "EventID": 0,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "SynTPEnhService",
+            "Session Changed User unlock"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "IDSIPS",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "OnSessionChange - Type = 0x8"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "IDSIPS",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:20 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "OnSessionChange - Type = 0x8"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "IDSIPS",
+        "EventID": 1,
+        "TimeGenerated": "2024-04-21 06:15:16 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "iBtSiva",
+            "Siva worker starting"
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "IDSIPS",
+        "EventID": 0,
+        "TimeGenerated": "2024-04-21 06:15:16 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "PowerEvent handled successfully by the service."
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "IDSIPS",
+        "EventID": 0,
+        "TimeGenerated": "2024-04-21 06:15:14 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "PowerEvent handled successfully by the service."
+        ],
+        "Description": "No description available"
+    },
+    {
+        "Timestamp": "2024-04-21 11:21:37",
+        "Source": "IDSIPS",
+        "EventID": 1610612736,
+        "TimeGenerated": "2024-04-21 06:15:14 UTC",
+        "EventType": 4,
+        "Severity": "Unknown",
+        "StringInserts": [
+            "PowerEvent-default - 0x7"
+        ],
+        "Description": "No description available"
+    }
+]
